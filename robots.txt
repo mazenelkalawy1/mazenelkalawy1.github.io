@@ -1,0 +1,5 @@
+# Mazen Mohamed Elkalawy
+
+User-agent: *
+Disallow: /images/*.tiff
+Crawl-delay: 10
